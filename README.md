@@ -4,5 +4,9 @@
 
 # STM32硬核DIY机械键盘[蓝牙USB双模|灯控]
 ***——创世一号 WorldEdit_1.0***
-***本项目已开源至Github：[点我传送](https://github.com/firestaradmin/WorldEdit-No.1)
-项目制作全过程视频BiliBili：[点我传送](https://www.bilibili.com/video/av81005730#reply2225849370)***
+
+***本项目已开源至Github：[点我传送](https://github.com/firestaradmin/WorldEdit-No.1)***
+
+***项目制作全过程视频BiliBili：[点我传送](https://www.bilibili.com/video/av81005730#reply2225849370)***
+
+***CSDN项目大致简介：[点我传送](https://blog.csdn.net/yougeng123/article/details/103803593)***
